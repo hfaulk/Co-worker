@@ -12,9 +12,10 @@ The project is still in relatively early days but is in a usable state.
 
 ## Features
 - An easy-to-use first time set-up screen that introduces the software and allows you to set settings
-- Ability to log work shifts
+- Ability to log work shifts, using a straightforward calendar view for selecting the date and more
 - Manage this data using spreadsheets, graphs and more
 - Export customisable data as an Excel file for time sheets or other uses
 - See an overview of your shift performance (total hours, pay and number of shifts) for the current vs previous month(s)
 - Customise aspects such as pay-rate, pay period and more
 - Import data from previous versions of the program, such as config.json, logged_shifts.csv and overall_hours.csv
+- See your 3 most recent shifts on the dashboard screen
