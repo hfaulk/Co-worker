@@ -1,4 +1,4 @@
-# Co-worker
+# Co-worker Shift Logger
 Co-worker is a python-based desktop application aimed at enhancing the productivity of a wide audience of users. The app helps the user manage work shifts in a simple and intuitive way, displaying them in a spreadsheet-style view, graph view and overview. It is easy to add new shifts, and then use data gathered by the program to automatically produce information such as time sheets.
 
 ## Motivation
